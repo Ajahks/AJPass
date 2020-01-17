@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c726567f-a5cc-4664-8778-6afd353fd8a7" name="Default Changelist" comment="" />
+    <list default="true" id="c726567f-a5cc-4664-8778-6afd353fd8a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/tb/PasswordGeneratorTB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/tb/PasswordGeneratorTB.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +84,7 @@
       <workItem from="1576907294948" duration="624000" />
       <workItem from="1578591281454" duration="1737000" />
       <workItem from="1578627341007" duration="1721000" />
+      <workItem from="1579237183484" duration="160000" />
     </task>
     <servers />
   </component>
@@ -92,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
