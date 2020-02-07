@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c726567f-a5cc-4664-8778-6afd353fd8a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Backend/PasswordCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordSaver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordSaver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordSaver/Backend/Encryptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordSaver/Backend/PasswordGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PasswordSaver/Backend/PasswordGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordSaver/Backend/tb/PasswordGeneratorTB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PasswordSaver/Backend/tb/PasswordGeneratorTB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/Encryptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/tb/PasswordGeneratorTB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/tb/PasswordGeneratorTB.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +29,17 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UchPI0gGgohy5y71imJZ1Bejxl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
@@ -33,19 +50,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager">
     <configuration name="PasswordGeneratorTB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -103,5 +111,44 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1109" y="344" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581096683875">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state x="-1109" y="344" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581096683875" />
+    <state x="-1231" y="208" key="FileChooserDialogImpl" timestamp="1581100847764">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="208" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581100847764" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581101678400">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581101678400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581101678400">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581101678400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581101678400">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581101678400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581101678400">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581101678400" />
+    <state x="-1531" y="28" key="SettingsEditor" timestamp="1581100852966">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state x="-1531" y="28" key="SettingsEditor/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581100852966" />
+    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1581100071051">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581100071051" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-69.1920.1040@0.0.1920.1040" timestamp="1581096229316" />
+    <state x="-1256" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581099458394">
+      <screen x="-1920" y="-69" width="1920" height="1040" />
+    </state>
+    <state x="-1256" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581099458394" />
   </component>
 </project>
