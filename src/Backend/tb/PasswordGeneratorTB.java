@@ -20,5 +20,11 @@ public class PasswordGeneratorTB {
         System.out.println(passLetters);
         System.out.println(passNumbers);
         System.out.println(passSpecial);
+
+        // Test out your ciphers
+        System.out.println("\nTesting cryptography: ");
+        CipherTB.testGoodKey();
+        CipherTB.testBadKey();
+
     }
 }
