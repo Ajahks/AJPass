@@ -49,18 +49,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="PasswordGeneratorTB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backend.tb.PasswordGeneratorTB" />
@@ -148,10 +136,10 @@
       <screen x="-1920" y="-69" width="1920" height="1040" />
     </state>
     <state x="-1531" y="28" key="SettingsEditor/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581100852966" />
-    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1581100071051">
+    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1583349824206">
       <screen x="-1920" y="-69" width="1920" height="1040" />
     </state>
-    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1581100071051" />
+    <state x="-1252" y="280" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-69.1920.1040@-1920.-69.1920.1040" timestamp="1583349824206" />
     <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-69.1920.1040@0.0.1920.1040" timestamp="1581096229316" />
     <state x="-1256" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581099458394">
       <screen x="-1920" y="-69" width="1920" height="1040" />

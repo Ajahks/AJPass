@@ -3,7 +3,7 @@ package Backend;
 import java.util.Hashtable;
 
 // Data structure to hold the login information for the website
-public class LoginInfo {
+public class LoginInfo implements java.io.Serializable{
     Hashtable<String, String> info = new Hashtable<String,String>(); // This is where we will store the information
 
     LoginInfo(String alias, String url, String username, String password, String secretKey){
